@@ -1,0 +1,32 @@
+center {
+    /* font-family: inherit;
+    font-weight: 100;
+    font-size: 44px;
+    margin: 20px 0 35px 0;
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: dotted; */
+}
+.header {
+    font-weight: 300;
+    padding-bottom: 5px;
+    position: relative;
+  }
+  .header:before{
+      content: "";
+      position: absolute;
+      width: 7%;
+      height: 1px;
+      bottom: 0;
+      left: 47%;
+      border-bottom: 1px solid black;
+  }
+
+.breadcrumb{
+    background-color: white !important;
+}
+
+.breadcrumb-item:hover {
+    text-decoration: none !important;
+    color: rgb(0, 123, 255);
+}

@@ -1,0 +1,81 @@
+{
+    "data" : [
+      {
+          "id" : 123 , 
+          "name" : "Achour" , 
+          "image" : "https://img.loccitane.com/P.aspx?l=fr-FR&s=500&e=png&name=creme-confort-ultra-riche-karite-creme-visage&id=01CV050K15&v=2" , 
+          "description" : "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker." , 
+          "category" : "asm" , 
+          "price" : 23.7 ,
+          "available" : false,
+          "package" : true ,
+          "bestSeller" : false
+      },
+      {
+        "id" : 1232 , 
+        "name" : "KARITÉ FLUIDE APAISANT VISAGE" , 
+        "image" : "https://img.loccitane.com/P.aspx?l=fr-FR&s=500&e=png&name=fluide-apaisant-visage-peau-sensible-loccitane&id=01SU040K15&v=2Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker." , 
+        "description" : "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker." ,         
+        "category" : "savon" , 
+        "price" : 33.7 ,
+        "available" : true,
+        "package" : false ,
+        "bestSeller" : true
+      },
+      {
+        "id" : 12332 , 
+        "name" : "HUILE CONFORT VISAGE KARITÉ" , 
+        "image" : "https://img.loccitane.com/P.aspx?l=fr-FR&s=500&e=png&name=huile-confort-visage-karite-soin-visage-nourrissant&id=01HV030K16&v=2" , 
+        "description" : "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker." ,         
+        "category" : "savon" , 
+        "price" : 65.7 ,
+        "available" : true,
+        "package" : true ,
+        "bestSeller" : true
+      },
+      {
+        "id" : 12338 , 
+        "name" : "HUILE CONFORT VISAGE KARITÉ" , 
+        "image" : "https://img.loccitane.com/P.aspx?l=fr-FR&s=500&e=png&name=huile-confort-visage-karite-soin-visage-nourrissant&id=01HV030K16&v=2" , 
+        "description" : "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker." ,         
+        "category" : "savon" , 
+        "price" : 65.7 ,
+        "available" : true,
+        "package" : false ,
+        "bestSeller" : true
+      },
+      {
+        "id" : 12337 , 
+        "name" : "HUILE CONFORT VISAGE KARITÉ" , 
+        "image" : "https://img.loccitane.com/P.aspx?l=fr-FR&s=500&e=png&name=huile-confort-visage-karite-soin-visage-nourrissant&id=01HV030K16&v=2" , 
+        "description" : "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker." ,         
+        "category" : "savon" , 
+        "price" : 65.7 ,
+        "available" : true,
+        "package" : true ,
+        "bestSeller" : true
+      },
+      {
+        "id" : 12336 , 
+        "name" : "HUILE CONFORT VISAGE KARITÉ" , 
+        "image" : "https://img.loccitane.com/P.aspx?l=fr-FR&s=500&e=png&name=huile-confort-visage-karite-soin-visage-nourrissant&id=01HV030K16&v=2" , 
+        "description" : "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker." ,         
+        "category" : "savon" , 
+        "price" : 65.7 ,
+        "available" : true,
+        "package" : false ,
+        "bestSeller" : true
+      },
+      {
+        "id" : 123325 , 
+        "name" : "CALENDRIER DE L’AVENT - CALENDRIER DES RÊVES" , 
+        "image" : "https://img.loccitane.com/P.aspx?l=fr-FR&s=500&e=png&name=calendrier-de-l-avent-cosmetique-l-occitane-x-castelbajac-paris&id=10CACLA18&v=2",
+        "description" : "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. Le Lorem Ipsum est le faux texte standard de l'imprimerie depuis les années 1500, quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte. Il n'a pas fait que survivre cinq siècles, mais s'est aussi adapté à la bureautique informatique, sans que son contenu n'en soit modifié. Il a été popularisé dans les années 1960 grâce à la vente de feuilles Letraset contenant des passages du Lorem Ipsum, et, plus récemment, par son inclusion dans des applications de mise en page de texte, comme Aldus PageMaker." ,         
+        "price" : 62.7 ,
+        "category" : "options 2" , 
+        "available" : true,
+        "package" : true ,
+        "bestSeller" : true
+      }
+    ]
+  }
